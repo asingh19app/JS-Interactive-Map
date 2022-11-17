@@ -1,0 +1,9 @@
+  #map {
+            height: 600px;
+            background-color: #ccc;
+        }
+
+        .leaflet-popup-contet-wrapper {
+            width:100%;
+        }
+    
